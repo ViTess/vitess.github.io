@@ -39,6 +39,9 @@
   color: #9a9a9a;
   margin: 5px 0 0 20px; }
 
+.ins-search-item {
+  background: #fff; }
+
 .ins-section .ins-search-item:hover,
 .ins-section .ins-search-item.active {
   color: #fff;
