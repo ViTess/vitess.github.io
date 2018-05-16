@@ -4,8 +4,8 @@
 
     
   <url>
-    <loc>https://vites.app/article/default/fbb3d3e5.html</loc>
-    <lastmod>2018-05-16T06:21:24.920Z</lastmod>
+    <loc>https://vites.app/article/dev/fbb3d3e5.html</loc>
+    <lastmod>2018-05-16T07:01:16.699Z</lastmod>
     <data>
         <display>
         <title>ViewPager配合Fragment懒加载的一个坑</title>
@@ -16,7 +16,7 @@
          
            
              
-              <breadCrumb title="骚灵" url="https://vites.app/categories/default/"/>
+              <breadCrumb title="开发" url="https://vites.app/categories/dev/"/>
           
         </display>
     </data>
