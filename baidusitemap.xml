@@ -5,7 +5,7 @@
     
   <url>
     <loc>https://vites.app/article/default/86b00fba.html</loc>
-    <lastmod>2018-05-17T07:10:11.986Z</lastmod>
+    <lastmod>2018-05-17T07:18:12.964Z</lastmod>
     <data>
         <display>
         <title>hexo与github建站记</title>
@@ -23,10 +23,9 @@
     </url>
 
     
-    
   <url>
     <loc>https://vites.app/article/dev/fbb3d3e5.html</loc>
-    <lastmod>2018-05-16T07:01:16.699Z</lastmod>
+    <lastmod>2018-05-17T07:18:12.964Z</lastmod>
     <data>
         <display>
         <title>ViewPager配合Fragment懒加载的一个坑</title>
@@ -43,6 +42,7 @@
     </data>
     </url>
 
+    
     
     
 </urlset>
