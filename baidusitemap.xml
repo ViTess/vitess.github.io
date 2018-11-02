@@ -4,6 +4,26 @@
 
     
   <url>
+    <loc>https://vites.app/article/dev/9d9111ff.html</loc>
+    <lastmod>2018-11-02T02:34:43.607Z</lastmod>
+    <data>
+        <display>
+        <title>RecyclerView重写ItemAnimator导致的Bug</title>
+        <pubTime>2018-10-30T02:03:38.000Z</pubTime>
+        
+        <tag>Android</tag>
+         
+         
+           
+             
+              <breadCrumb title="开发" url="https://vites.app/categories/dev/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://vites.app/article/dev/2a8afc84.html</loc>
     <lastmod>2018-10-11T02:04:23.386Z</lastmod>
     <data>
@@ -220,26 +240,6 @@
 
     
   <url>
-    <loc>https://vites.app/article/default/86b00fba.html</loc>
-    <lastmod>2018-05-17T07:18:12.964Z</lastmod>
-    <data>
-        <display>
-        <title>hexo与github建站记</title>
-        <pubTime>2018-05-11T09:27:41.000Z</pubTime>
-        
-        <tag>hexo</tag>
-         
-         
-           
-             
-              <breadCrumb title="骚灵" url="https://vites.app/categories/default/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>https://vites.app/article/dev/fbb3d3e5.html</loc>
     <lastmod>2018-05-17T07:18:12.964Z</lastmod>
     <data>
@@ -253,6 +253,26 @@
            
              
               <breadCrumb title="开发" url="https://vites.app/categories/dev/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://vites.app/article/default/86b00fba.html</loc>
+    <lastmod>2018-05-17T07:18:12.964Z</lastmod>
+    <data>
+        <display>
+        <title>hexo与github建站记</title>
+        <pubTime>2018-05-11T09:27:41.000Z</pubTime>
+        
+        <tag>hexo</tag>
+         
+         
+           
+             
+              <breadCrumb title="骚灵" url="https://vites.app/categories/default/"/>
           
         </display>
     </data>
