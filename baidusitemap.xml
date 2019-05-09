@@ -4,6 +4,30 @@
 
     
   <url>
+    <loc>https://vites.app/article/dev/c04b6b0b.html</loc>
+    <lastmod>2019-05-09T07:38:10.682Z</lastmod>
+    <data>
+        <display>
+        <title>MediaCodec编码摄像头数据时控制帧率的方法</title>
+        <pubTime>2019-05-09T03:46:05.000Z</pubTime>
+        
+        <tag>Android</tag>
+         
+        <tag>MediaCodec</tag>
+         
+        <tag>OpenGLES</tag>
+         
+         
+           
+             
+              <breadCrumb title="开发" url="https://vites.app/categories/dev/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://vites.app/article/dev/64bbb612.html</loc>
     <lastmod>2019-04-20T03:27:04.830Z</lastmod>
     <data>
@@ -282,26 +306,6 @@
 
     
   <url>
-    <loc>https://vites.app/article/default/86b00fba.html</loc>
-    <lastmod>2018-05-17T07:18:12.000Z</lastmod>
-    <data>
-        <display>
-        <title>hexo与github建站记</title>
-        <pubTime>2018-05-11T09:27:41.000Z</pubTime>
-        
-        <tag>hexo</tag>
-         
-         
-           
-             
-              <breadCrumb title="骚灵" url="https://vites.app/categories/default/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>https://vites.app/article/dev/fbb3d3e5.html</loc>
     <lastmod>2018-05-17T07:18:12.000Z</lastmod>
     <data>
@@ -315,6 +319,26 @@
            
              
               <breadCrumb title="开发" url="https://vites.app/categories/dev/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://vites.app/article/default/86b00fba.html</loc>
+    <lastmod>2018-05-17T07:18:12.000Z</lastmod>
+    <data>
+        <display>
+        <title>hexo与github建站记</title>
+        <pubTime>2018-05-11T09:27:41.000Z</pubTime>
+        
+        <tag>hexo</tag>
+         
+         
+           
+             
+              <breadCrumb title="骚灵" url="https://vites.app/categories/default/"/>
           
         </display>
     </data>
