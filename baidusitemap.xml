@@ -4,8 +4,30 @@
 
     
   <url>
+    <loc>https://vites.app/article/dev/8a9fa889.html</loc>
+    <lastmod>2019-05-10T09:38:11.869Z</lastmod>
+    <data>
+        <display>
+        <title>C++的内存分配</title>
+        <pubTime>2019-05-10T03:37:55.000Z</pubTime>
+        
+        <tag>C++</tag>
+         
+        <tag>Java</tag>
+         
+         
+           
+             
+              <breadCrumb title="开发" url="https://vites.app/categories/dev/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://vites.app/article/dev/701195a9.html</loc>
-    <lastmod>2019-05-09T12:06:17.765Z</lastmod>
+    <lastmod>2019-05-09T12:06:34.937Z</lastmod>
     <data>
         <display>
         <title>关于取模运算和取余运算</title>
