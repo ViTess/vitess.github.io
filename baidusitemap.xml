@@ -4,6 +4,26 @@
 
     
   <url>
+    <loc>https://vites.app/article/dev/6bd07504.html</loc>
+    <lastmod>2019-05-11T09:53:41.020Z</lastmod>
+    <data>
+        <display>
+        <title>C++中typedef和指针结合时理解</title>
+        <pubTime>2019-05-11T09:29:50.000Z</pubTime>
+        
+        <tag>C++</tag>
+         
+         
+           
+             
+              <breadCrumb title="开发" url="https://vites.app/categories/dev/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://vites.app/article/dev/531f17fa.html</loc>
     <lastmod>2019-05-11T04:06:02.360Z</lastmod>
     <data>
@@ -366,26 +386,6 @@
 
     
   <url>
-    <loc>https://vites.app/article/dev/fbb3d3e5.html</loc>
-    <lastmod>2018-05-17T07:18:12.000Z</lastmod>
-    <data>
-        <display>
-        <title>ViewPager配合Fragment懒加载的一个坑</title>
-        <pubTime>2018-05-16T06:10:08.000Z</pubTime>
-        
-        <tag>Android</tag>
-         
-         
-           
-             
-              <breadCrumb title="开发" url="https://vites.app/categories/dev/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>https://vites.app/article/default/86b00fba.html</loc>
     <lastmod>2018-05-17T07:18:12.000Z</lastmod>
     <data>
@@ -399,6 +399,26 @@
            
              
               <breadCrumb title="骚灵" url="https://vites.app/categories/default/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://vites.app/article/dev/fbb3d3e5.html</loc>
+    <lastmod>2018-05-17T07:18:12.000Z</lastmod>
+    <data>
+        <display>
+        <title>ViewPager配合Fragment懒加载的一个坑</title>
+        <pubTime>2018-05-16T06:10:08.000Z</pubTime>
+        
+        <tag>Android</tag>
+         
+         
+           
+             
+              <breadCrumb title="开发" url="https://vites.app/categories/dev/"/>
           
         </display>
     </data>
