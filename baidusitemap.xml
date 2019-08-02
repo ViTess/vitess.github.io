@@ -4,8 +4,28 @@
 
     
   <url>
+    <loc>https://vites.app/article/dev/42923d2a.html</loc>
+    <lastmod>2019-08-02T08:55:50.228Z</lastmod>
+    <data>
+        <display>
+        <title>C++中的&和*</title>
+        <pubTime>2019-08-01T12:22:52.000Z</pubTime>
+        
+        <tag>C++</tag>
+         
+         
+           
+             
+              <breadCrumb title="开发" url="https://vites.app/categories/dev/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://vites.app/article/dev/6bd07504.html</loc>
-    <lastmod>2019-05-11T09:53:41.020Z</lastmod>
+    <lastmod>2019-05-11T09:53:56.904Z</lastmod>
     <data>
         <display>
         <title>C++中typedef和指针结合时理解</title>
