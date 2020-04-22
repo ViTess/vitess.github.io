@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://vites.app/article/dev/763e0905.html</loc>
+    
+    <lastmod>2020-04-22T11:55:47.309Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://vites.app/article/dev/e7c3448c.html</loc>
     
     <lastmod>2020-03-16T08:13:57.988Z</lastmod>
@@ -156,13 +163,6 @@
   </url>
   
   <url>
-    <loc>https://vites.app/article/default/86b00fba.html</loc>
-    
-    <lastmod>2018-05-17T07:18:12.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://vites.app/article/dev/fbb3d3e5.html</loc>
     
     <lastmod>2018-05-17T07:18:12.000Z</lastmod>
@@ -170,7 +170,7 @@
   </url>
   
   <url>
-    <loc>https://vites.app/googlee78a27311ecde0d7.html</loc>
+    <loc>https://vites.app/article/default/86b00fba.html</loc>
     
     <lastmod>2018-05-17T07:18:12.000Z</lastmod>
     
@@ -178,6 +178,13 @@
   
   <url>
     <loc>https://vites.app/404.html</loc>
+    
+    <lastmod>2018-05-17T07:18:12.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://vites.app/googlee78a27311ecde0d7.html</loc>
     
     <lastmod>2018-05-17T07:18:12.000Z</lastmod>
     

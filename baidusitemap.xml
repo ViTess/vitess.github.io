@@ -4,6 +4,28 @@
 
     
   <url>
+    <loc>https://vites.app/article/dev/763e0905.html</loc>
+    <lastmod>2020-04-22T11:55:47.309Z</lastmod>
+    <data>
+        <display>
+        <title>OpenGLES开发透明通道视频备忘录</title>
+        <pubTime>2020-04-22T06:47:10.000Z</pubTime>
+        
+        <tag>Android</tag>
+         
+        <tag>OpenGLES</tag>
+         
+         
+           
+             
+              <breadCrumb title="开发" url="https://vites.app/categories/dev/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://vites.app/article/dev/e7c3448c.html</loc>
     <lastmod>2020-03-16T08:13:57.988Z</lastmod>
     <data>
@@ -458,26 +480,6 @@
 
     
   <url>
-    <loc>https://vites.app/article/default/86b00fba.html</loc>
-    <lastmod>2018-05-17T07:18:12.000Z</lastmod>
-    <data>
-        <display>
-        <title>hexo与github建站记</title>
-        <pubTime>2018-05-11T09:27:41.000Z</pubTime>
-        
-        <tag>hexo</tag>
-         
-         
-           
-             
-              <breadCrumb title="骚灵" url="https://vites.app/categories/default/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>https://vites.app/article/dev/fbb3d3e5.html</loc>
     <lastmod>2018-05-17T07:18:12.000Z</lastmod>
     <data>
@@ -491,6 +493,26 @@
            
              
               <breadCrumb title="开发" url="https://vites.app/categories/dev/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://vites.app/article/default/86b00fba.html</loc>
+    <lastmod>2018-05-17T07:18:12.000Z</lastmod>
+    <data>
+        <display>
+        <title>hexo与github建站记</title>
+        <pubTime>2018-05-11T09:27:41.000Z</pubTime>
+        
+        <tag>hexo</tag>
+         
+         
+           
+             
+              <breadCrumb title="骚灵" url="https://vites.app/categories/default/"/>
           
         </display>
     </data>
